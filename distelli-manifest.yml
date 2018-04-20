@@ -1,4 +1,4 @@
-padrien33/bugzilla:
+padrien33/demo_pp_bugzilla:
   Build:
     - echo "Nothing to Build"
   PkgInclude:
